@@ -12,12 +12,12 @@ pip install -r requirements.txt
 ```
 
 ## OSC Reference
-* IP & PORT (IP:PORT)
-State Controller ```127.0.0.1:9999```
-Moving Light ```127.0.0.1:8888```
-Kinect ```127.0.0.1:7777```
-Music Generation ```127.0.0.1:6666```
-UI ```127.0.0.1:5555```
+* IP & PORT (IP:PORT)  
+State Controller ```127.0.0.1:9999```  
+Moving Light ```127.0.0.1:8888```  
+Kinect ```127.0.0.1:7777```  
+Music Generation ```127.0.0.1:6666```  
+UI ```127.0.0.1:5555```  
 
 
 
