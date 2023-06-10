@@ -3,8 +3,8 @@
 ## 概要
 
 ## 実行
-```Python
-python state_controller.py
+```python
+pip install requirements.txt
 ```
 
 ## OSC Reference
