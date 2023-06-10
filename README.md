@@ -2,9 +2,10 @@
 
 ## 概要
 
-## 実行
+## ライブラリのインストール
+ターミナルで以下のコマンドを実行。
 ```python
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## OSC Reference
